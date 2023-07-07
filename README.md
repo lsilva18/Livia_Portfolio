@@ -3,7 +3,7 @@
 Welcome to my data science portfolio! Here, you'll find details about some of the projects I have worked on. Each project explores different aspects of data analysis and machine learning.
 
 ## Project 1: E-commerce Product Classification
-[ecomerce.gif](/images/ecommerce.gif)
+[](/images/ecommerce.gif)
 
 The E-commerce Product Classification project aims to automate product categorization in e-commerce datasets using NLP techniques and machine learning. It develops a model to accurately classify products based on attributes and descriptions, enhancing efficiency and effectiveness for e-commerce platforms.
 
